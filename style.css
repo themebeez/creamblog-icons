@@ -1,0 +1,155 @@
+@font-face {
+  font-family: 'creamblog';
+  src:  url('fonts/creamblog.eot?f7nk6a');
+  src:  url('fonts/creamblog.eot?f7nk6a#iefix') format('embedded-opentype'),
+    url('fonts/creamblog.ttf?f7nk6a') format('truetype'),
+    url('fonts/creamblog.woff?f7nk6a') format('woff'),
+    url('fonts/creamblog.svg?f7nk6a#creamblog') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.cb {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'creamblog' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cb-facebook:before {
+  content: "\e900";
+}
+.cb-facebook-circle:before {
+  content: "\e901";
+}
+.cb-facebook-square:before {
+  content: "\e902";
+}
+.cb-twitter:before {
+  content: "\e903";
+}
+.cb-instagram:before {
+  content: "\e904";
+}
+.cb-instagram-alt:before {
+  content: "\e905";
+}
+.cb-pinterest-alt:before {
+  content: "\e906";
+}
+.cb-pinterest:before {
+  content: "\e907";
+}
+.cb-linkedin:before {
+  content: "\e908";
+}
+.cb-youtube:before {
+  content: "\e909";
+}
+.cb-rss:before {
+  content: "\e90a";
+}
+.cb-envelope-open:before {
+  content: "\e90b";
+}
+.cb-envelope-open-alt:before {
+  content: "\e90c";
+}
+.cb-search:before {
+  content: "\e90d";
+}
+.cb-user:before {
+  content: "\e90e";
+}
+.cb-alarm:before {
+  content: "\e90f";
+}
+.cb-time:before {
+  content: "\e910";
+}
+.cb-calendar:before {
+  content: "\e911";
+}
+.cb-cart:before {
+  content: "\e912";
+}
+.cb-basket:before {
+  content: "\e913";
+}
+.cb-check:before {
+  content: "\e914";
+}
+.cb-close:before {
+  content: "\e915";
+}
+.cb-chevron-down:before {
+  content: "\e916";
+}
+.cb-chevron-left:before {
+  content: "\e917";
+}
+.cb-chevron-right:before {
+  content: "\e918";
+}
+.cb-chevron-up:before {
+  content: "\e919";
+}
+.cb-comment:before {
+  content: "\e91a";
+}
+.cb-edit:before {
+  content: "\e91b";
+}
+.cb-image-alt:before {
+  content: "\e91c";
+}
+.cb-link:before {
+  content: "\e91d";
+}
+.cb-video:before {
+  content: "\e91e";
+}
+.cb-menu:before {
+  content: "\e91f";
+}
+.cb-quote-alt-left:before {
+  content: "\e920";
+}
+.cb-quote-alt-right:before {
+  content: "\e921";
+}
+.cb-home:before {
+  content: "\e922";
+}
+.cb-home-alt:before {
+  content: "\e923";
+}
+.cb-play-button:before {
+  content: "\e924";
+}
+.cb-play-button-round:before {
+  content: "\e925";
+}
+.cb-short-up-arrow:before {
+  content: "\e926";
+}
+.cb-short-down-arrow:before {
+  content: "\e927";
+}
+.cb-short-right-arrow:before {
+  content: "\e928";
+}
+.cb-short-left-arrow:before {
+  content: "\e929";
+}
+.cb-share:before {
+  content: "\e92a";
+}
